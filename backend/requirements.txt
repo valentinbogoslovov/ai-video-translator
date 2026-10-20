@@ -1,0 +1,18 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pydantic-settings
+pysubs2
+pydub
+python-docx
+# Source separation (VO removal, preserves music/SFX)
+demucs
+soundfile
+# Background replacement
+torch
+torchvision
+opencv-python
+numpy
+playwright
+pandas
+openpyxl

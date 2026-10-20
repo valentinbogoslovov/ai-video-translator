@@ -1,0 +1,10 @@
+.env
+uploads/
+__pycache__/
+*.pyc
+node_modules/
+.next/
+.DS_Store
+venv/
+.idea/
+*.broken-bak
